@@ -6,3 +6,5 @@
   * [API](https://forismatic.com/en/api/)
   * App background [click](https://www.heropatterns.com/)
  
+ 
+###### Note: sometimes api doesn't work.
