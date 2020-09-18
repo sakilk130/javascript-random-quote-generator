@@ -1,5 +1,5 @@
 # javascript-random-quote-generator
-### Live On: [view](https://javascript-random-quote-generator.netlify.app/)
+### Live On: [view](https://sakilk130.github.io/javascript-random-quote-generator/)
  ## Learned:
   * fetch data from api
  ## Source
